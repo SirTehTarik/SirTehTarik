@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I am Mathew 👋
 
-<!--
-**SirTehTarik/SirTehTarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a software engineering student** studying in **Asia Pacific University**.  
+Passionate about building scalable web applications, developer tooling, and open-source software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+- 🔭 **Current Focus:** Building My Money Manager application called Nalla Money
+- 🌱 **Learning:** Typescript and Tailwind CSS
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+`Python` `Java` `JavaScript` `PHP` `SQL` `Typescript` 
+
+**Frameworks & Libraries**  
+`Next.js` `React` `Node.js` `FastAPI` `Tailwind CSS`
+
+**Databases & Infrastructure**  
+`PostgreSQL` `Supabase` `Docker` `Google Cloud` `GitHub Actions`
+
