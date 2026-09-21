@@ -1,7 +1,7 @@
 # Hi there, I am Mathew 👋
 
 **I am a software engineering student** studying in **Asia Pacific University**.  
-Passionate about building scalable web applications, developer tooling, and open-source software.
+I have a solid foundation in both Python and Java. Experienced in collaborating on class projects to build functional applications. Eager to contribute to real-world development cycles and build scalable software solutions.
 
 ---
 
@@ -14,11 +14,11 @@ Passionate about building scalable web applications, developer tooling, and open
 ### 🛠️ Tech Stack
 
 **Languages**  
-`Python` `Java` `JavaScript` `PHP` `SQL` `Typescript` 
+`Python` `Java` `JavaScript` `PHP` `SQL` `Typescript`
 
 **Frameworks & Libraries**  
 `Next.js` `React` `Node.js` `FastAPI` `Tailwind CSS`
 
 **Databases & Infrastructure**  
-`PostgreSQL` `Supabase` `Docker` `Google Cloud` `GitHub Actions`
+`PostgreSQL` `Supabase` `Docker` `Google Cloud` `GitHub Actions` 
 
