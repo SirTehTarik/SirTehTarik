@@ -13,13 +13,13 @@ Skilled in Java/Python programming, responsive web development, and SQL database
 
 ### 🛠️ Tech Stack
 
-**Languages**  
+**Languages I have learned**  
 `Python` `Java` `JavaScript` `PHP` `SQL` 
 
-**Frameworks & Libraries**  
+**Frameworks & Libraries I have used**  
 `Next.js` `React` `FastAPI` `Tailwind CSS`
 
-**Databases & Infrastructure**  
+**Databases & Infrastructure I have used**  
 `PostgreSQL` `Supabase` `Docker` `Google Cloud` `GitHub Actions` 
 
 <!--
