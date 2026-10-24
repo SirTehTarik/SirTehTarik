@@ -17,7 +17,7 @@ Skilled in Java/Python programming, responsive web development, and SQL database
 `Python` `Java` `JavaScript` `PHP` `SQL` 
 
 **Frameworks & Libraries**  
-`Next.js` `React` `Node.js` `FastAPI` `Tailwind CSS`
+`Next.js` `React` `FastAPI` `Tailwind CSS`
 
 **Databases & Infrastructure**  
 `PostgreSQL` `Supabase` `Docker` `Google Cloud` `GitHub Actions` 
